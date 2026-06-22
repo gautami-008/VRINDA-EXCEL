@@ -52,9 +52,13 @@ Data Cleaning Note: Fields like Gender contain minor inconsistencies (e.g., 'M' 
  . Geographic Inventory Localization: Warehousing and logistics can prioritize inventory fulfillment centers nearest to Maharashtra and Karnataka to achieve faster shipping times and lower transit costs.
 
 
+. Supply Chain & Stock Optimization: Production schedules should heavily skew toward producing high-demand apparel categories (Sets and Kurtas) while scaling back inventory holding costs on slow-moving items like Bottoms.
+    
+ . Platform-Specific Strategies: Tailored pricing models can be optimized for lower-performing channels like Ajio, Nalli, and Meesho to tap into their unique consumer demographics without diluting brand value on Amazon.
 
+
+
+
+ 
 
     https://github.com/gautami-008/VRINDA-EXCEL/blob/main/VRINDA%20SS.png
-    . Supply Chain & Stock Optimization: Production schedules should heavily skew toward producing high-demand apparel categories (Sets and Kurtas) while scaling back inventory holding costs on slow-moving items like Bottoms.
-    
-    . Platform-Specific Strategies: Tailored pricing models can be optimized for lower-performing channels like Ajio, Nalli, and Meesho to tap into their unique consumer demographics without diluting brand value on Amazon.
